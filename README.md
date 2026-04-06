@@ -1,7 +1,3 @@
-# Namma Yatri-Dashboard
-
-### Dashboard PDF Link : https://drive.google.com/file/d/1M2NEsthLibEPMRPKm_YEtUlRr7asDApE/view?usp=drive_link
-
 ## Problem Statement
 
 Namma Yatri, a leading transportation service, is struggling with the effective management and analysis of trip-related data. The lack of a robust platform to visualize and derive insights from trip information has resulted in operational inefficiencies, increased costs, and diminished customer satisfaction.
